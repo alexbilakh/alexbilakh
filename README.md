@@ -5,7 +5,7 @@
 
 
 <a style="display:block;margin-left:auto;margin-right:auto;" href="#">
-  <img src="https://github.com/idea-forest/idea-forest/blob/main/Logo.gif" align="center" />
+  <img src="https://github.com/alexbilakh/alexbilakh/Logo.gif" align="center" />
 </a>
 
 <br/>
