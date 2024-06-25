@@ -3,8 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Alexandr, Senior Front-End developer</h1>
 <p align="center">
-  <a href="https://github.com/cool725">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&center=true&width=500&height=50&lines=Senior+Full+stack+Developer;8%2B+years+of+hands+on+experience;Determined+problem+solver+" alt="Typing SVG" />
+  <a href="https://github.com/alexbilakh">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&center=true&width=500&height=50&lines=Senior+Front+End+Developer;8%2B+years+of+hands+on+experience;Determined+problem+solver+" alt="Typing SVG" />
   </a>
 </p>
 
